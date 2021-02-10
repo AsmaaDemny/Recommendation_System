@@ -1,6 +1,6 @@
 ## UE901 EC3 Recommender System - Practical word
 
-**Asmaa DEMNY & Fatima Habib & Cécile Macaire & Chanoudom Prach & Ludivine ROBERT**
+**Asmaa DEMNY & Fatima HABIB & Cécile MACAIRE & Chanoudom PRACH & Ludivine ROBERT**
 
 
 ## Context
